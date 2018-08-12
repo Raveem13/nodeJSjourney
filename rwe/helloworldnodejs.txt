@@ -1,0 +1,2 @@
+This file was created with writefilesyncappending data to nodejs using appendFileSync
+appending data to nodejs using appendFileSync
